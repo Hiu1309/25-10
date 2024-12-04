@@ -1,0 +1,23 @@
+.anchor-pane {
+    -fx-background-color: #a1a1a1;
+}
+.radius{
+	-fx-background-radius: 8px;
+}
+
+.transparent{
+	-fx-background-color: transparent;
+}
+
+.scroll-pane {
+    -fx-background-color: transparent; /* Xóa màu nền mặc định */
+}
+
+.scroll-pane .viewport {
+
+    -fx-background-color: #a1a1a1; /* Nếu thuộc tính khác cần trùng màu */
+}
+
+.white{
+	-fx-background-color:white;
+}
